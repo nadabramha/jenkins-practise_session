@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo "Starting Shell Script Job..."
+echo "Current Date and Time: $(date)"
+echo "Running on Host: $(hostname)"
+echo "Listing Current Directory Contents:"
+ls -l
+echo "Hello Jenkins New User Priyesh!"
